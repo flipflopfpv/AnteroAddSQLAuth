@@ -1,0 +1,3 @@
+[submodule "FuzzySharp"]
+	path = FuzzySharp
+	url = https://github.com/JakeBayer/FuzzySharp.git
